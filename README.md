@@ -1,6 +1,6 @@
 # jays-wp-htaccess / Improved Fork (2026)
 
-> **Forked from** [JayHoltslander/jays-wp-htaccess](https://github.com/JayHoltslander/jays-wp-htaccess) — Original work by Jay Holtslander.
+> **Forked from** [JayHoltslander/jays-wp-htaccess](https://github.com/JayHoltslander/jays-wp-htaccess) / Original work by Jay Holtslander.
 
 An improved and modernized `.htaccess` file for WordPress websites, updated in 2026 with enhanced security, modern file type support, and detailed beginner-friendly comments.
 
@@ -22,9 +22,9 @@ An improved and modernized `.htaccess` file for WordPress websites, updated in 2
 
 ## Who is this for?
 
-- **Beginners and juniors** — every single rule has a comment explaining what it does and why it exists
-- **WordPress developers** — covers all common WP security and performance needs
-- **Anyone using Apache** — works on any Apache-based hosting (shared, VPS, dedicated)
+- **Beginners and juniors** - every single rule has a comment explaining what it does and why it exists
+- **WordPress developers** - covers all common WP security and performance needs
+- **Anyone using Apache** - works on any Apache-based hosting (shared, VPS, dedicated)
 
 ---
 
@@ -33,7 +33,7 @@ An improved and modernized `.htaccess` file for WordPress websites, updated in 2
 1. Download the `.htaccess` file
 2. Make a **backup** of your current `.htaccess` first!
 3. Replace your existing `.htaccess` at the root of your WordPress installation
-4. Read the comments — most sections are **commented out by default**. Activate only what you need by removing the `#` characters.
+4. Read the comments - most sections are **commented out by default**. Activate only what you need by removing the `#` characters.
 5. Test your site after each change
 
 ---
