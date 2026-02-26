@@ -72,8 +72,8 @@ An improved and modernized `.htaccess` file for WordPress websites, updated in 2
 
 ## License
 
-MIT - same as the original project. See [LICENSE](LICENSE).
+MIT same as the original project. See [LICENSE](LICENSE).
 
 ---
 
-*Improved by [madjeek-web](https://github.com/madjeek-web) - February 2026*
+*Improved by [madjeek-web](https://github.com/madjeek-web) / February 2026*
