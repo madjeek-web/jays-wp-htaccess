@@ -1,4 +1,4 @@
-# jays-wp-htaccess — Improved Fork (2026)
+# jays-wp-htaccess / Improved Fork (2026)
 
 > **Forked from** [JayHoltslander/jays-wp-htaccess](https://github.com/JayHoltslander/jays-wp-htaccess) — Original work by Jay Holtslander.
 
@@ -6,7 +6,7 @@ An improved and modernized `.htaccess` file for WordPress websites, updated in 2
 
 ---
 
-## ✨ What's new in this fork vs the original
+## What's new in this fork vs the original
 
 | Feature | Original (2021) | This fork (2026) |
 |---|---|---|
@@ -20,7 +20,7 @@ An improved and modernized `.htaccess` file for WordPress websites, updated in 2
 
 ---
 
-## 🎯 Who is this for?
+## Who is this for?
 
 - **Beginners and juniors** — every single rule has a comment explaining what it does and why it exists
 - **WordPress developers** — covers all common WP security and performance needs
@@ -28,7 +28,7 @@ An improved and modernized `.htaccess` file for WordPress websites, updated in 2
 
 ---
 
-## 🚀 How to use
+## How to use
 
 1. Download the `.htaccess` file
 2. Make a **backup** of your current `.htaccess` first!
@@ -38,27 +38,27 @@ An improved and modernized `.htaccess` file for WordPress websites, updated in 2
 
 ---
 
-## 📋 What's inside
+## What's inside
 
-- **Section 1** — WordPress core rewrite rules
-- **Section 2** — HTTPS / SSL forcing + HSTS
-- **Section 3** — URL canonicalization (www vs no-www)
-- **Section 4** — Security headers (X-Frame-Options, CSP, Referrer-Policy, Permissions-Policy...)
-- **Section 5** — WordPress-specific security (wp-config, xmlrpc, username enumeration...)
-- **Section 6** — Compression (mod_deflate / gzip)
-- **Section 7** — Browser caching (Expires headers)
-- **Section 8** — MIME types (including AVIF, HEIC, WebAssembly, modern fonts)
-- **Section 9** — Character encoding (UTF-8)
-- **Section 10** — CORS headers
-- **Section 11** — Force file downloads
-- **Section 12** — Custom error pages
-- **Section 13** — PHP settings
-- **Section 14** — Legacy browser compatibility
-- **Section 15** — 301 redirects
+- **Section 1** - WordPress core rewrite rules
+- **Section 2** - HTTPS / SSL forcing + HSTS
+- **Section 3** - URL canonicalization (www vs no-www)
+- **Section 4** - Security headers (X-Frame-Options, CSP, Referrer-Policy, Permissions-Policy...)
+- **Section 5** - WordPress-specific security (wp-config, xmlrpc, username enumeration...)
+- **Section 6** - Compression (mod_deflate / gzip)
+- **Section 7** - Browser caching (Expires headers)
+- **Section 8** - MIME types (including AVIF, HEIC, WebAssembly, modern fonts)
+- **Section 9** - Character encoding (UTF-8)
+- **Section 10** - CORS headers
+- **Section 11** - Force file downloads
+- **Section 12** - Custom error pages
+- **Section 13** - PHP settings
+- **Section 14** - Legacy browser compatibility
+- **Section 15** - 301 redirects
 
 ---
 
-## 🔧 Useful tools
+## Useful tools
 
 | Tool | What it does |
 |---|---|
@@ -70,10 +70,10 @@ An improved and modernized `.htaccess` file for WordPress websites, updated in 2
 
 ---
 
-## 📄 License
+## License
 
-MIT — same as the original project. See [LICENSE](LICENSE).
+MIT - same as the original project. See [LICENSE](LICENSE).
 
 ---
 
-*Improved by [madjeek-web](https://github.com/madjeek-web) — February 2026*
+*Improved by [madjeek-web](https://github.com/madjeek-web) - February 2026*
