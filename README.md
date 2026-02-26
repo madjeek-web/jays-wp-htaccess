@@ -12,15 +12,15 @@ An improved and modernized `.htaccess` file for WordPress websites, updated in 2
 |---|---|---|
 | Security headers | Basic | Permissions-Policy, Referrer-Policy, improved CSP |
 | Image formats | WebP | + AVIF, HEIC, HEIF |
-| WebAssembly | ❌ | ✅ |
-| Comment quality | Short | Detailed — explains **why**, not just what |
+| WebAssembly | No | Yes |
+| Comment quality | Short | Detailed - explains **why**, not just what |
 | Duplicate declarations | Present | Fixed |
 | HSTS preload guidance | Partial | Complete with registration link |
-| Beginner-friendly | Partial | ✅ Every rule explained in plain English |
+| Beginner-friendly | Partial | Every rule explained in plain English |
 
 ---
 
-## Who is this for?
+## Who is this for ?
 
 - **Beginners and juniors** - every single rule has a comment explaining what it does and why it exists
 - **WordPress developers** - covers all common WP security and performance needs
